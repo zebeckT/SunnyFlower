@@ -1,0 +1,170 @@
+{
+  "categories": [
+    {
+      "id": "hoa-hong",
+      "name": "Hoa hồng",
+      "description": "Hồng nhập và hồng Đà Lạt tươi mỗi ngày",
+      "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=600"
+    },
+    {
+      "id": "hoa-sinh-nhat",
+      "name": "Hoa sinh nhật",
+      "description": "Bó và giỏ hoa rực rỡ cho ngày đặc biệt",
+      "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=600"
+    },
+    {
+      "id": "hoa-cuoi",
+      "name": "Hoa cưới",
+      "description": "Hoa cầm tay và trang trí tiệc cưới",
+      "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=600"
+    },
+    {
+      "id": "hoa-khai-truong",
+      "name": "Hoa khai trương",
+      "description": "Kệ hoa chúc mừng, phát tài phát lộc",
+      "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=600"
+    }
+  ],
+  "products": [
+    {
+      "id": "bo-hong-do-20-bong",
+      "name": "Bó hồng đỏ 20 bông",
+      "description": "20 bông hồng đỏ Ecuador gói giấy kraft, tượng trưng cho tình yêu nồng nàn.",
+      "price": 650000,
+      "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=800",
+      "images": [
+        "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=800"
+      ],
+      "categoryId": "hoa-hong",
+      "stock": 15,
+      "featured": true,
+      "createdAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "bo-hong-pastel-10-bong",
+      "name": "Bó hồng pastel 10 bông",
+      "description": "Hồng phấn nhẹ nhàng kèm baby trắng và lá bạc.",
+      "price": 420000,
+      "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800",
+      "images": [
+        "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800"
+      ],
+      "categoryId": "hoa-hong",
+      "stock": 20,
+      "featured": true,
+      "createdAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "hop-hong-vang",
+      "name": "Hộp hồng vàng 15 bông",
+      "description": "Hộp tròn sang trọng với 15 bông hồng vàng.",
+      "price": 780000,
+      "image": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=800",
+      "images": [
+        "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=800"
+      ],
+      "categoryId": "hoa-hong",
+      "stock": 8,
+      "featured": false,
+      "createdAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "gio-huong-duong-sinh-nhat",
+      "name": "Giỏ hướng dương rạng rỡ",
+      "description": "Hướng dương tươi tắn mang năng lượng tích cực.",
+      "price": 490000,
+      "image": "https://images.unsplash.com/photo-1470509037663-253afd7f0f51?w=800",
+      "images": [
+        "https://images.unsplash.com/photo-1470509037663-253afd7f0f51?w=800"
+      ],
+      "categoryId": "hoa-sinh-nhat",
+      "stock": 12,
+      "featured": true,
+      "createdAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "bo-cam-chuong-mix",
+      "name": "Bó cẩm chướng mix màu",
+      "description": "Cẩm chướng nhiều màu, bền hoa, hợp tặng mẹ và cô giáo.",
+      "price": 350000,
+      "image": "https://images.unsplash.com/photo-1561181286-d3fee7d55364?w=800",
+      "images": [
+        "https://images.unsplash.com/photo-1561181286-d3fee7d55364?w=800"
+      ],
+      "categoryId": "hoa-sinh-nhat",
+      "stock": 25,
+      "featured": false,
+      "createdAt": "2026-09-05T00:00:00.000Z"
+    },
+    {
+      "id": "bo-tulip-hong-15",
+      "name": "Bó tulip hồng 15 bông",
+      "description": "Tulip Hà Lan nhập khẩu, thanh lịch và ngọt ngào.",
+      "price": 890000,
+      "image": "https://images.unsplash.com/photo-1520763185298-1b434c919102?w=800",
+      "images": [
+        "https://images.unsplash.com/photo-1520763185298-1b434c919102?w=800"
+      ],
+      "categoryId": "hoa-sinh-nhat",
+      "stock": 6,
+      "featured": true,
+      "createdAt": "2026-09-06T00:00:00.000Z"
+    },
+    {
+      "id": "hoa-cam-tay-cuoi-trang",
+      "name": "Hoa cầm tay cô dâu trắng",
+      "description": "Hồng trắng, lan mokara và baby cho ngày trọng đại.",
+      "price": 1200000,
+      "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800",
+      "images": [
+        "https://images.unsplash.com/photo-1519741497674-611481863552?w=800"
+      ],
+      "categoryId": "hoa-cuoi",
+      "stock": 5,
+      "featured": true,
+      "createdAt": "2026-09-07T00:00:00.000Z"
+    },
+    {
+      "id": "hoa-cuoi-pastel-hong",
+      "name": "Hoa cưới cầm tay pastel",
+      "description": "Tông hồng phấn - kem lãng mạn, kèm ruy băng lụa.",
+      "price": 1450000,
+      "image": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=800",
+      "images": [
+        "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=800"
+      ],
+      "categoryId": "hoa-cuoi",
+      "stock": 4,
+      "featured": false,
+      "createdAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "ke-hoa-khai-truong-phat-tai",
+      "name": "Kệ hoa khai trương Phát Tài",
+      "description": "Kệ 2 tầng cao 1.5m: hồng, đồng tiền, lan vũ nữ.",
+      "price": 1800000,
+      "image": "https://images.unsplash.com/photo-1487530811176-3780de880c2d?w=800",
+      "images": [
+        "https://images.unsplash.com/photo-1487530811176-3780de880c2d?w=800"
+      ],
+      "categoryId": "hoa-khai-truong",
+      "stock": 7,
+      "featured": true,
+      "createdAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
+      "id": "ke-hoa-chuc-mung-hong-phat",
+      "name": "Kệ hoa chúc mừng Hồng Phát",
+      "description": "Kệ lớn 3 tầng, tông đỏ - vàng, phù hợp khai trương.",
+      "price": 2500000,
+      "image": "https://images.unsplash.com/photo-1561181286-d3fee7d55364?w=800",
+      "images": [
+        "https://images.unsplash.com/photo-1561181286-d3fee7d55364?w=800"
+      ],
+      "categoryId": "hoa-khai-truong",
+      "stock": 3,
+      "featured": false,
+      "createdAt": "2026-09-10T00:00:00.000Z"
+    }
+  ]
+}
