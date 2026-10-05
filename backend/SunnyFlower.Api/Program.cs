@@ -116,5 +116,6 @@ app.MapCategories();
 app.MapProducts();
 app.MapOrders();
 app.MapContacts();
+app.MapUserEndpoints();
 
 app.Run();
